@@ -1,7 +1,8 @@
 
 # DM-3212
 
-![CJMCU-3212](https://i.imgur.com/z7lX4eF.jpg)
+![image](https://user-images.githubusercontent.com/7502315/167411267-cb019812-e536-4b50-885d-2c4ccfe00244.png)
+
 
 ## Description 
 
