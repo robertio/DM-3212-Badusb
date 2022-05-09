@@ -14,8 +14,7 @@ This is what works for me:
 
 
 1: Put the DM-3212 as ESP programmer  -  This will connect Arduino serial to ESP serial.
-    Run Arduino IDE -  step1.ino -upload https://github.com/puckk/CJMCU-3212/blob/master/step1.ino sketch - 
-    
+    Run Arduino IDE -  step1.ino -upload https://github.com/puckk/CJMCU-3212/blob/master/step1.ino sketch 
     Set -FILE- Preferences - https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
     ![image](https://user-images.githubusercontent.com/7502315/167414866-57b22952-0794-4bd2-9701-8bb8c6404a92.png)
 
