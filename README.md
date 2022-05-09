@@ -18,7 +18,9 @@ This is what works for me:
     Board is Arduino Leonardo - This will connect Arduino serial to ESP serial.
     https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
 
-    ![image](https://user-images.githubusercontent.com/7502315/167414185-c75cabc7-1400-4e30-9bb8-e475c374f768.png)
+
+![image](https://user-images.githubusercontent.com/7502315/167414322-47b374a2-56fe-4562-899b-a19e58edf1d8.png)
+
 
 Unplug DM-3212 from usb
 
