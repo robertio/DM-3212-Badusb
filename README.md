@@ -46,7 +46,6 @@ Unplug DM-3212 from usb
     Set the clear wifi settings and sketch
     ![image](https://user-images.githubusercontent.com/7502315/167410257-53aafbaf-62c6-42de-a0c9-cc124e1e28dc.png)
 
-
     Start compile:
     ![image](https://user-images.githubusercontent.com/7502315/167410290-6b3f8dae-d86f-4fbd-b542-4ea04e71cd84.png)
 
