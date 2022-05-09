@@ -13,13 +13,15 @@ Descriptions like https://github.com/puckk/CJMCU-3212 DOES not works for me.
 This is what works for me:
 
 
-1: Put the DM-3212 as ESP programmer  -  
+1: Put the DM-3212 as ESP programmer  -  This will connect Arduino serial to ESP serial.
     Run Arduino IDE -  step1.ino -upload https://github.com/puckk/CJMCU-3212/blob/master/step1.ino sketch - 
-    Board is Arduino Leonardo - This will connect Arduino serial to ESP serial.
-    https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
+    
+    Set -FILE- Preferences - https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
+    ![image](https://user-images.githubusercontent.com/7502315/167414866-57b22952-0794-4bd2-9701-8bb8c6404a92.png)
 
-
-![image](https://user-images.githubusercontent.com/7502315/167414322-47b374a2-56fe-4562-899b-a19e58edf1d8.png)
+    Choose Board is Arduino Leonardo - 
+        
+    ![image](https://user-images.githubusercontent.com/7502315/167414322-47b374a2-56fe-4562-899b-a19e58edf1d8.png)
 
 
 Unplug DM-3212 from usb
