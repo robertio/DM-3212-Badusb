@@ -48,9 +48,10 @@ Unplug DM-3212 from usb
 
     Start compile:
     ![image](https://user-images.githubusercontent.com/7502315/167410290-6b3f8dae-d86f-4fbd-b542-4ea04e71cd84.png)
-
+    
     Bootom line -shows the settings- should look like this:
-    ![image](https://user-images.githubusercontent.com/7502315/167410428-978a1371-657e-42dd-af4d-6e88bfd9508e.png)
+    ![image](https://user-images.githubusercontent.com/7502315/167415730-29d081c3-7bca-4734-8240-faadc31e2fd6.png)
+
 
 Compilation will create esp8266_wifi_duck.ino.generic.bin 
 
