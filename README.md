@@ -58,7 +58,8 @@ Compilation will create esp8266_wifi_duck.ino.generic.bin
 5. Flash esp8266_wifi_duck.ino.generic.bin with ESP8266Flasher64.exe  - This will create Ducky webserver - 
     where you can config your ducky script.
 
-6. repeat step 1 (to set back serial) - maybe this is not necessary
+6. Flash arduino_wifi_duck.ino with Arduino IDE - Choose Board: Arduino Leonardo - as you did in step 1 (to set back serial)
+    This will set serial connection between Arduino and ESP. 
 
 7 Attache to WIFI- SSID: WiFi Duck
     Password: quackquack
